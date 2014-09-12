@@ -1,0 +1,1 @@
+Buildpack for maytrics based on heroku-buildpack-c-with-libraries.
